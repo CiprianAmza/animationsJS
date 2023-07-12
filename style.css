@@ -1,0 +1,184 @@
+  .car {
+    width: 500px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 0% 15% 5% 5%;
+    margin: 2% 0% 0% 50%;
+  }
+  
+  .front {
+    
+    background-color: white;
+    padding-top: 2.5%;
+    width: 150px;
+    height: 100px;
+    border-radius: 0 35% 30% 0%;
+  }
+  
+  .window {
+    background-color: grey;
+    width: 80px;
+    height: 80px;
+    margin: -21% 0% 0% 40%;
+    border: 10px solid black;
+  }
+  
+  #window1 {
+    margin: -21% 0% 0% 40%;
+  }
+  #window2 {
+    margin: -20% 0% 0% 70%;
+  }
+  
+  .openDoor {
+    background-color: black;
+    width: 30px;
+    height: 10px;
+  }
+  
+  #openDoor1 {
+    margin: 2% 0% 0% 53.7%;
+  }
+  #openDoor2{ 
+    margin: -2.4% 0% 0% 83.5%;
+  }
+  
+  .bar {
+    background-color: black;
+    width: 10px;
+    height: 180px;
+    margin: -24% 0% 0% 64%;
+  }
+  
+  
+  .wheel {
+    background-color: black;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    margin: 9.3% 0% 0% 5%;
+  }
+  
+  #wheel1 {
+    margin: 3.3% 0% 0% 15%;
+  }
+  
+  #wheel2 { 
+    margin: -12% 0% 0% 75%;
+  }
+  
+  #colorCircle1 {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: 0% 0% 0% 40%;
+  }
+  
+  #colorCircle2 {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: 60% 0% 0% 40%;
+  }
+  
+  
+  #colorCircle3 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: -55% 0% 0% 10%;
+  }
+  
+  #colorCircle4 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: -16.5% 0% 0% 75%;
+  }
+  
+  #colorCircle5 {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: 0% 0% 0% 40%;
+  }
+  
+  #colorCircle6 {
+    background-color: grey;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: 60% 0% 0% 41%;
+  }
+  
+  #colorCircle7 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: -55% 0% 0% 10%;
+  }
+  
+  #colorCircle8 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: -16.5% 0% 0% 75%;
+  }
+  
+  .radioBar {
+    background-color: green;
+    width: 5px;
+    height: 110px;
+    transform: rotate(20deg);
+    margin: -45% 0% 0% 98.5%;
+  }
+  
+  .taxiSign {
+    background-color: orange;
+    border: 10px solid yellow;
+    color: black solid;
+    width: 40px;
+    margin: -36.7% 0% 0% 57%;
+    border-radius: 30% 30% 0% 0%;
+  }
+  
+  .startButton {
+    background-color: green;
+    border-radius: 20%;
+    width: 55px;
+    height: 30px;
+  }
+  
+  .startButton:hover {
+    background-color: darkgreen;
+  }
+  
+  .breakButton {
+    background-color: red;
+    color: gold;
+    border-radius: 20%;
+    width: 55px;
+    height: 30px;
+  }
+  
+  .breakButton:hover {
+    background-color: black;
+  }
+  
+  .backwardsButton {
+    background-color: blue;
+    border-radius: 20%;
+    width: 77px;
+    height: 30px;
+  }
+  
+  .backwardsButton:hover {
+    background-color: darkblue;
+  }
