@@ -1,6 +1,5 @@
 let value = 40, movement = 0, intervalId, moveForward = false, moveBackward = false;
 
-
 function move(direction) {
 
   value += 0.5 * [1, -1][direction];
