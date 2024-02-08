@@ -24,7 +24,7 @@
   }
   
   #window1 {
-    margin: -21% 0% 0% 40%;
+    margin: -20% 0% 0% 40%;
   }
   #window2 {
     margin: -20% 0% 0% 70%;
@@ -125,6 +125,22 @@
   }
   
   #colorCircle8 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: -16.5% 0% 0% 75%;
+  }
+
+  #colorCircle9 {
+    background-color: white;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    margin: -16.5% 0% 0% 75%;
+  }
+
+  #colorCircle10 {
     background-color: white;
     width: 10px;
     height: 10px;
